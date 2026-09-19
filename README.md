@@ -1,6 +1,6 @@
-# DayVault 📚✨
+# Selfview 📚✨
 
-DayVault is a comprehensive, production-ready student life-management and productivity platform designed to keep your academic records, daily habits, assignments, study sessions, goals, personal tracking, and memories organized in one secure place.
+Selfview is a comprehensive, production-ready student life-management and productivity platform designed to keep your academic records, daily habits, assignments, study sessions, goals, personal tracking, and memories organized in one secure place.
 
 ## Features
 
