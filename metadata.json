@@ -1,0 +1,7 @@
+{
+  "name": "Selfview",
+  "description": "Personal student life-record and productivity application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
